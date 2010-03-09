@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: recRunes
+## Notes: Death Knight utility.
+## Author: Recluse
+## OptionalDeps: recMedia
+## Version: $Id: recRunes.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+settings.lua
+modules\runes.lua
+modules\runic_power.lua
+modules\global_cooldown.lua
+modules\diseases.lua
